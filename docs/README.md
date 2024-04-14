@@ -2,16 +2,18 @@
 
 ## 職務要約
 
-xxx
+2022年4月より、株式会社FLINTERS BASEでデータエンジニアとして入社後、LINE株式会社（現LINEヤフー株式会社）へ派遣社員として配属されました。</br>
+
+配属後は、PythonやAzkaban、Airflowを利用したELTパイプラインのメンテナンスや、SparkSQLを用いたビッグデータの処理などに従事。
+中央組織のデータチームの一員として、事業部側のエンジニアやビジネスサイドのステークホルダーと緊密に連携しながら、クリーンなデータセットの提供や事業に必要なデータの提供に努めてきました。
 
 ## 言語経験・スキル
 
-| Category | Name | Years |
-| :------: | :------: | :------: |
-| 開発手法 | Description2 | |
-| 言語 | Description1-1<br>Description1-2<br>Description1-3 | |
-| フレームワーク等 | Description2 | |
-| フレームワーク等 | Description2 | |
+| Category | Name |
+| :------: | :------ |
+| 開発手法 | アジャイル |
+| 言語 | Python / SQL |
+| フレームワーク等 | Query Engine - Spark / Hive</br>Workflow tool - Airflow / Azkaban</br>Distributed Framework - Hadoop</br>Table Format - Iceberg</br>|
 
 ## 職務経歴詳細
 
