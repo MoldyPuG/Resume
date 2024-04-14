@@ -13,7 +13,7 @@
 | :------: | :------ |
 | 開発手法 | アジャイル |
 | 言語 | Python / SQL |
-| フレームワーク等 | Query Engine - Spark / Hive</br>Workflow tool - Airflow / Azkaban</br>Distributed Framework - Hadoop</br>Table Format - Iceberg</br>|
+| フレームワーク等 | Query Engine - Spark / Hive <br> Workflow tool - Airflow / Azkaban</br>Distributed Framework - Hadoop</br>Table Format - Iceberg</br>|
 
 ## 職務経歴詳細
 
