@@ -13,7 +13,7 @@
 | :------: | :------ |
 | 開発手法 | アジャイル |
 | 言語 | Python / SQL |
-| フレームワーク等 | Query Engine - Spark / Hive <br> Workflow tool - Airflow / Azkaban</br>Distributed Framework - Hadoop</br>Table Format - Iceberg</br>|
+| フレームワーク等 | Query Engine - Spark / Hive <br> Workflow tool - Airflow / Azkaban <br> Distributed Framework - Hadoop <br> Table Format - Iceberg|
 
 ## 職務経歴詳細
 
@@ -42,13 +42,17 @@
 
 - 概要：
 
-主な参画したプロジェクト
+主な参画したプロジェクトやタスク
 
-① xxx
+① 会社間でのデータ連携プロジェクト
 
-② xxx
+② 定期実行バッチジョブの実行速度改善
 
-③ xxx
+③ 利用されていないテーブルの検知と自動削除を行うJobを作成
+
+④ ユーザー影響の大きい、日次でテラバイト規模のデータをもつテーブルのスキーマ変更
+
+⑤ レガシーELTパイプラインの廃止プロジェクト
 
 ## 自己PR
 
