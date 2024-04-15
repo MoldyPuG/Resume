@@ -10,7 +10,7 @@
 ## 言語経験・スキル
 
 | Category | Name |
-| :------: | :------ |
+| :------ | :------ |
 | 開発手法 | アジャイル |
 | 言語 | Python / SQL |
 | フレームワーク等 | Query Engine - Spark / Hive <br> Workflow Tool - Airflow / Azkaban <br> Distributed Framework - Hadoop <br> Table Format - Iceberg|
