@@ -10,8 +10,8 @@
 | Category | Name |
 | :------ | :------ |
 | 開発手法 | アジャイル |
-| 言語 | Python / SQL |
-| フレームワーク等 | Query Engine - Spark / Hive <br> Workflow Tool - Airflow / Azkaban <br> Distributed Framework - Hadoop <br> Table Format - Iceberg <br> Code Management - Github|
+| 言語 | Python (2 years) / SQL (2 years) |
+| フレームワーク等 | **Query Engine** - Spark (2 years) / Hive (2 years) <br> **Workflow Tool** - Airflow (1.7 years)/ Azkaban (1 years) <br> **Distributed Framework** - Hadoop (2 years) <br> **Table Format** - Iceberg (0.5 years) <br> **Code Management** - Github (2 years)|
 
 ## 職務経歴詳細
 
@@ -26,7 +26,7 @@
 
 【 雇用形態 】
 
-- 正社員（派遣社員としてLINE株式会社勤務）
+- FLINTERS BASE 正社員勤務（派遣社員としてLINE株式会社勤務）
 
 【 在籍期間 】
 
@@ -136,6 +136,40 @@
 - 最終的に30を超えるバッチジョブの停止を完遂し、レガシーパイプラインを廃止した
 
 【 利用技術 】Python / Azkaban / Hive / MySQL
+
+### Leverages 株式会社
+
+- 事業内容:メディア事業; 人材関連事業; システムエンジニアリング事業; M&Aコンサルティング事業
+- 従業員数:1200名(正社員)
+- 資本金:5,000万円
+- 売上高:561億(2020年度)
+
+【 雇用形態 】
+
+- 正社員
+
+【 在籍期間 】
+
+- 2021/04/01 ~ 2021/09/30
+
+【 職種・役割 】
+
+- Career / Recruit Advisor
+
+【 職務内容 】
+
+- 介護業界における人材紹介営業として、6ヶ月間勤務していました
+
+### 主な参画したプロジェクトやタスク
+
+#### 介護士のCareer Advisorおよび、介護施設のRecruiting Advisor
+
+第2四半期(7月~9月)売上実績:約450万円(目標指数120%達成)
+常に毎日の数字の変化を意識して営業を行うことで、上記結果を達成いたしました。
+
+求職者の選択肢が少ないのか、面接に行ける数が少ないのか、合格できないのかなど、可視化された数値の中で今の自分がどういう行動を取るべきかを常に考え、取り組んでおりました。
+その中でも求職者に多くの選択肢を与えるべく、求職者への施設提案率を特に意識して企業側へ求職者採用時のメリット訴求を続けた結果、目標数値60%に対して70%の提案率を達成し、上記結果へ結びつけました。
+また、施設へのヒアリングで得た情報をチームへ共有、蓄積し見える化していくことで、チームの売上達成や、チームメンバーの求職者の機会損失減少へ貢献しました。
 
 ## 自己PR
 
